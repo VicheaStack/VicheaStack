@@ -20,6 +20,15 @@
 
 ---
 
+### 🏆 Featured Project
+
+**[Agoda Microservice Architecture](https://github.com/VicheaStack/Agoda-Microservice)**
+* **Domain:** A fully distributed room booking and hotel management platform.
+* **Architecture:** Database-per-service pattern, clean layer separation (Controllers vs. Services), and strict DTO mapping using MapStruct to prevent data pollution.
+* **Tech Stack:** Spring Boot, PostgreSQL, Docker. 
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Backend Development**
@@ -40,21 +49,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### **Frontend (Supportive Skills)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vicheastack&show_icons=true&theme=radical&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicheastack&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicheastack&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicheastack&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vicheastack&theme=radical&hide_border=true" />
 </p>
 
 ---
